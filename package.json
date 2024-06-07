@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "\t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeraKrantsevich/ajs-workspace-npm.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Vera Krantsevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeraKrantsevich/ajs-workspace-npm/issues"
+  },
+  "homepage": "https://github.com/VeraKrantsevich/ajs-workspace-npm#readme"
+}
